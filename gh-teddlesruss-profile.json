@@ -1,0 +1,30 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T05:04:29Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:teddlesruss"
+    },
+    {
+      "Claim": "mdon:@ptec3d@mastodon.au"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "ecac77c3ab965fe1a6ca9a00",
+    "Timestamp": "2023-04-06T05:11:14Z",
+    "Signature": "0735095db6ac184679acae412f9aadea908a40e72ab1fb8c2b4fccd05a9cbce7ea5687d3c994b6d99fc4ac50a498809b7462e592b00672b4585c5240ecf59da4fc88b905f12d6e82c8f08326bdaf2dc3d9faedafb785d0b36d559adf079804e785684a899af22f296bf8fc6dde85c59a849afa011426f6f5126ae8dbf45c7359abf55433aa655f772d31ad2a22bfd7c4ed24c02550dd12fbe2b5916a4eb8d5e75e28956105ab690e12defa075420490513894f61b591cd18501e41d0e1d1e246a261ea4192a6861d64b9d2dc3ff734f5c92a30c4b4b49c56310a3023fcb1bf90d9ec92f2387e4064a664b5dc64f45dc0b4bd24333173f6cb06017083e07722ee"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "17c2f1b16c8ebe63d4445aa3bf58b8e67c46ac832c34d0f4879b45062015a86c",
+  "ContentToHash": "v1|gh:teddlesruss,mdon:@ptec3d@mastodon.au,post:no-account,spout:no-account|2023-04-06T05:04:29Z"
+}
